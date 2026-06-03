@@ -77,7 +77,7 @@
   "dependencies": {
     "@langchain/community": "^0.3.36",
     "@langchain/core": "^0.3.42",
-    "axios": "1.16.0",
+    "axios": "1.16.1",
     "mem0ai": "^2.1.8",
     "uuid": "14.0.0",
     "zod": "3.22.4"
