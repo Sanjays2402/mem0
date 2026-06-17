@@ -37,7 +37,7 @@
     "@ai-sdk/groq": "2.0.1",
     "@ai-sdk/openai": "2.0.2",
     "@ai-sdk/provider": "2.0.0",
-    "@ai-sdk/provider-utils": "4.0.1",
+    "@ai-sdk/provider-utils": "4.0.2",
     "ai": "6.0.205",
     "dotenv": "^16.4.5",
     "partial-json": "0.1.7",
